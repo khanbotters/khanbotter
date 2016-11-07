@@ -109,7 +109,6 @@ if(!isset($_SESSION['logged']) || $_SESSION['logged'] ==  false){
 
 </title><link rel="stylesheet" type="text/css" href="http://junkiez.hexat.com/css1/simple1.css" media="all,handheld"/><link rel="shortcut icon" href="">
 <script type="text/javascript" src="http://www.pkaistani-botterz.blogspot.com"></script>
-<audio src="http://ihostbot.com/Rooh.mp3" autoplay="" loop=""></audio>
 <style type="text/css">body, a:hover {cursor: url(http://ani.cursors-4u.net/cursors/cur-11/cur1089.cur), progress !important;}</style><a href="http://www.cursors-4u.com/cursor/2012/06/24/s-pink-premium-pointer.html" target="_blank" title="S Pink Premium Pointer"><img src="http://cur.cursors-4u.net/cursor.png" border="0" alt="S Pink Premium Pointer" style="position:absolute; top: 0px; right: 0px;" /></a>
 
 <?php

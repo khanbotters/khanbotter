@@ -490,7 +490,7 @@ if($use != '.' && $use != '..'){
 
 echo'
 <div id="footer">
-Active Users  : <font color="lime">15  ' . count($user) . ' </font>
+Active Users  : <font color="lime">15 ' . count($user) . ' </font>
 </div>
 
 <MARQUEE><font color="RED";FONTS-SIZE="45PX">THIS SITE IS CREATED BY GULRAIZ REHMAN OWNER OF (KHANBOTTER)</font>

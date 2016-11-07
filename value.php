@@ -299,11 +299,12 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site='🎈BOT SITE [➬ http://khanbotter.ml/🎈
+$site='🎈BOT SITE [➬  http://app-ca926895-91b8-43da-b1b8-7bacf289bea6.cleverapps.io/ 🎈
 ⤵
-OWNER OF SITE ➡ <3 MUHAMMAD GULRAIZ REHMAN (03460628723)
-<3 KHANBOTTER+SHIKRA BOTTER TEAM <3
- <3 Malik Ali Shikra <3 Muhammad Toqeer <3 Ali Haider Hashmi <3 Muhammad Zaman <3 Ateeq Malik <3⭐';
+OWNER OF SITE ➬➡➬ <3 GULRAIZ REHMAN ➬➬ Malik Ali Shikra (➬03460628723)
+<3 ➬ KHAN BOTTER TEAM <3
+ <3 Malik Ali Shikra <3 Gulraiz Rehman <3 Faisal Khan <3 Osama Nabeel  <3 😽 '.$name.' <3⭐ 
+➬Website➡Khanbotter,blogspot,com ';
 $true=$ops.'
 🏨 '.$eps.'
 🏥 '.$ups.'

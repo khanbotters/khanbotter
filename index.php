@@ -455,8 +455,8 @@ echo'
 <ul>
 </center>
 <div style="border-top: 1px #ccc solid; margin-top: 10px;"></div></br>
-<center><a href="http://Urdumeqh.beget.tech" target="blank">• 2ND SERVER •</a></center>
-<center><a href="http://urdumer4.bget.ru/index.php" target="blank">• 3rd  SERVER •</a>
+<center><a href="http://app-ca926895-91b8-43da-b1b8-7bacf289bea6.cleverapps.io/index.php" target="blank">• 2ND SERVER •</a></center>
+<center><a href="http://khanbotter.ml/index.php" target="blank">• 3rd  SERVER •</a>
 <br>
 <a href="http://newpolon.beget.tech/" target="blank">• 4TH SERVER •</a><br>
 <a href="http://jotireuc.beget.tech/" target="blank">• 5THSERVER •</a></center>
@@ -490,7 +490,7 @@ if($use != '.' && $use != '..'){
 
 echo'
 <div id="footer">
-Active Users  : <font color="lime">15 + '.($user).'</font>
+Active Users  : <font color="lime">15  ' . count($user) . ' </font>
 </div>
 
 <MARQUEE><font color="RED";FONTS-SIZE="45PX">THIS SITE IS CREATED BY GULRAIZ REHMAN OWNER OF (KHANBOTTER)</font>
